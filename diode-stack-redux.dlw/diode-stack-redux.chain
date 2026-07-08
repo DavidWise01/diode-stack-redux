@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 103
+slug  : diode-stack-redux
+seal  : 41d7d754cc7a0d6dca87b1daac598234338f291b6390060463cfe3a49c652ed8
+prev  : 958ee37def1ff92b572a6ba2d4c19f53a90d98ac0bd418f48303de337dfe7751
+link  : 8df3b113a69b2ea96e3a0f0fdc59c05fcce68ec9ef0710bf7e2d900e975b8d05
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
